@@ -11,6 +11,7 @@
     <title>Première vue</title>
 </head>
 <body>
-
+<h1>View 1</h1>
+<p>Ceci est le contenue de notre 1ère vue ajoutée.</p>
 </body>
 </html>
