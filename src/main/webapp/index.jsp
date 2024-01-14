@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Exploration des vues JSP</title>
 </head>
 <body>
 <h1><%= "Affichage à défaut !" %>
